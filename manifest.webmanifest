@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "QK Barber Studio",
+  "short_name": "QK Barber",
+  "description": "Reservas de QK Barber Studio",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    { "src": "img/logo-qk-barber-studio.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any" }
+  ]
+}
